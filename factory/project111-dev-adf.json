@@ -1,0 +1,9 @@
+{
+	"name": "project111-dev-adf",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea099913-31f0-4cd7-9d17-4525ecd9ee34",
+		"tenantId": "c494ed72-8027-413c-b52f-dc6acad2254e"
+	}
+}
